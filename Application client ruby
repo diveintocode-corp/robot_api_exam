@@ -1,0 +1,4 @@
+'$ ruby robot_api_client.rb 
+[OUTPUT_FORMAT(csv or json)] 
+[BASIC_AUTH_ID] 
+[BASIC_AUT_PASSWORD]'
